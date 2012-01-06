@@ -1,1 +1,1 @@
-This code was written around May 2007 for a now abandoned artificial grammar learning experiment.  The code is a bit coarse but, so far as I am aware, functions reliably.  Perhaps you, unknown and unlikely visitor, will find it useful.
+This code was written around May 2007 for a now abandoned artificial grammar learning experiment.  The code is a bit coarse but, so far as I am aware, functions reliably.  I am not sure how it all works at this point.  Perhaps though you, unknown and unlikely visitor, will find it useful.
